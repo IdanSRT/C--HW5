@@ -1,22 +1,22 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text;
 using System.Threading.Tasks;
-using System.Windows.Forms;
 
-namespace B16Ex05_IdanShuraty201580990_SagiGleizer
+namespace B16_Ex02_Idan_201580990_Sagi_305746588
 {
-    static class Program
+    public class Program
     {
-        /// <summary>
-        /// The main entry point for the application.
-        /// </summary>
-        [STAThread]
-        static void Main()
+        public static void Main()
         {
-            Application.EnableVisualStyles();
-            Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Console.WriteLine("Hello!\nLet's play 4 in a row!");
+            int numOfPlayers = GameMenager.ChooseNumOf("Players", 1, 2);
+            int numOfRows = GameMenager.ChooseNumOf("Rows", 4, 8);
+            int numOfColumns = GameMenager.ChooseNumOf("Columns", 4, 8);
+            GameMenager NewGame = GameMenager.StartNewGame(numOfRows, numOfColumns, numOfPlayers);
+            NewGame.PlayGame();
+            Console.ReadLine();
         }
     }
 }

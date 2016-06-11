@@ -12,3 +12,6 @@ C:\Users\Sagi\Desktop\B16_Ex02 Idan 201580990 Sagi 305746588\B16_Ex02 Idan 20158
 C:\Users\Sagi\Desktop\B16_Ex02 Idan 201580990 Sagi 305746588\B16_Ex02 Idan 201580990 Sagi 305746588\bin\Debug\B16_Ex02 Idan 201580990 Sagi 305746588.pdb
 C:\Users\Sagi\Desktop\B16_Ex02 Idan 201580990 Sagi 305746588\B16_Ex02 Idan 201580990 Sagi 305746588\bin\Debug\Ex02.ConsoleUtils.dll
 C:\Users\Sagi\Desktop\B16_Ex02 Idan 201580990 Sagi 305746588\B16_Ex02 Idan 201580990 Sagi 305746588\obj\Debug\B16_Ex02 Idan 201580990 Sagi 305746588.csprojResolveAssemblyReference.cache
+C:\Users\Sagi\Desktop\HW\B16 Ex05 SagiGleizer 305746588 IdanShuraty 201580990\B16_Ex02 Idan 201580990 Sagi 305746588\bin\Debug\B16_Ex02 Idan 201580990 Sagi 305746588.exe.config
+C:\Users\Sagi\Desktop\HW\B16 Ex05 SagiGleizer 305746588 IdanShuraty 201580990\B16_Ex02 Idan 201580990 Sagi 305746588\obj\Debug\B16_Ex02 Idan 201580990 Sagi 305746588.exe
+C:\Users\Sagi\Desktop\HW\B16 Ex05 SagiGleizer 305746588 IdanShuraty 201580990\B16_Ex02 Idan 201580990 Sagi 305746588\obj\Debug\B16_Ex02 Idan 201580990 Sagi 305746588.pdb
