@@ -1,6 +1,6 @@
 ﻿namespace B16Ex05_IdanShuraty201580990_SagiGleizer
 {
-    partial class Form1
+    partial class SettingForm
     {
         /// <summary>
         /// Required designer variable.
@@ -30,10 +30,9 @@
         {
             this.components = new System.ComponentModel.Container();
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.Text = "Form1";
+            this.Text = "SettingForm";
         }
 
         #endregion
     }
 }
-

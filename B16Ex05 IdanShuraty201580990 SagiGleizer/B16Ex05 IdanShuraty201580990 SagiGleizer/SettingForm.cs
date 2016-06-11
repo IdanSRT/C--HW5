@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace B16Ex05_IdanShuraty201580990_SagiGleizer
 {
-    public partial class Form1 : Form
+    public partial class SettingForm : Form
     {
-        public Form1()
+        public SettingForm()
         {
             InitializeComponent();
         }
