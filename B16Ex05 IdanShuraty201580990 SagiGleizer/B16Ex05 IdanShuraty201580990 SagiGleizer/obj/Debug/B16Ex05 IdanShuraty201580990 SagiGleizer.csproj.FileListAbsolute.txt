@@ -1,0 +1,2 @@
+c:\users\sagi\documents\visual studio 2015\Projects\B16Ex05 IdanShuraty201580990 SagiGleizer\B16Ex05 IdanShuraty201580990 SagiGleizer\bin\Debug\B16Ex05 IdanShuraty201580990 SagiGleizer.exe.config
+C:\Users\sagi\Desktop\C#-HW5\B16Ex05 IdanShuraty201580990 SagiGleizer\B16Ex05 IdanShuraty201580990 SagiGleizer\bin\Debug\B16Ex05 IdanShuraty201580990 SagiGleizer.exe.config
