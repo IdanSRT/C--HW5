@@ -1,0 +1,8 @@
+diff a/B16_Ex02 Idan 201580990 Sagi 305746588/B16_Ex02 Idan 201580990 Sagi 305746588/Board.cs b/B16_Ex02 Idan 201580990 Sagi 305746588/B16_Ex02 Idan 201580990 Sagi 305746588/Board.cs	(rejected hunks)
+@@ -1,5 +0,4 @@
+-﻿
+-using System.Collections.Generic;
++﻿using System.Collections.Generic;
+ using System.Linq;
+ using System.Text;
+ using System.Threading.Tasks;
